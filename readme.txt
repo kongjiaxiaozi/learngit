@@ -1,4 +1,6 @@
 git is a distributed version control system.
 Git is free software.
-sjdshf
-正式的真是的真是的这是随便的尝试huodianshenmona .
+正式的真是的真是的这是随便的尝试 .
+git 的管理修改
+Git tracks changes
+
